@@ -57,12 +57,12 @@ public class MainKlasa{
 			}
 
 			private static int mul (int broj1, int broj2) {
-				return broj2;
+				return broj1 * broj2;
 				
 			}
 
 			private static double div(int broj1, int broj2) {
-				return broj2;
+				return broj1 / (double)(broj2);
 				
 			}
 
